@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/PieceOfPy.iml" filepath="$PROJECT_DIR$/.idea/PieceOfPy.iml" />
+      <module fileurl="file://F:/PyCharm Projects/.idea/PyCharm Projects.iml" filepath="F:/PyCharm Projects/.idea/PyCharm Projects.iml" />
     </modules>
   </component>
 </project>
